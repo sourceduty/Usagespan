@@ -26,71 +26,101 @@ Understanding the usagespan of a product can provide numerous benefits. For busi
 Floppy Disk:
 
 Initial Implementation: 1971 by IBM.
+
 Usagespan: Widely used through the 1980s and early 1990s.
+
 Replaced By: CD-ROMs, USB flash drives, and cloud storage in the late 1990s and early 2000s.
+
 End of Use: Early 2000s.
 
 VHS Tape:
 
 Initial Implementation: 1976 by JVC.
+
 Usagespan: Dominant through the 1980s and 1990s.
+
 Replaced By: DVDs and Blu-ray discs in the early 2000s.
+
 End of Use: Early 2000s, with significant decline by 2010.
 
 CD-ROM:
 
 Initial Implementation: 1982 by Sony and Philips.
+
 Usagespan: Popular through the 1990s and early 2000s.
+
 Replaced By: USB flash drives, digital downloads, and streaming services.
+
 End of Use: Mid to late 2010s.
 
 CRT Television:
 
 Initial Implementation: 1927, became popular in the mid-20th century.
+
 Usagespan: Standard through the 20th century.
+
 Replaced By: LCD, LED, and OLED televisions starting in the early 2000s.
+
 End of Use: Early 2010s.
 
 Blackberry Smartphones:
 
 Initial Implementation: 1999 by RIM (Research In Motion).
+
 Usagespan: Peaked in the mid-2000s.
+
 Replaced By: iPhones and Android smartphones.
+
 End of Use: Mid-2010s.
 
 iPod:
 
 Initial Implementation: 2001 by Apple.
+
 Usagespan: Extremely popular in the 2000s.
+
 Replaced By: iPhones and other smartphones with music capabilities.
+
 End of Use: Discontinued in 2022.
 
 Landline Phones:
 
 Initial Implementation: Late 19th century by Alexander Graham Bell.
+
 Usagespan: Standard communication device through the 20th century.
+
 Replaced By: Mobile phones starting in the late 1990s.
+
 End of Use: Declined significantly by the 2010s.
 
 Digital Cameras:
 
 Initial Implementation: 1990 by Kodak.
+
 Usagespan: Became mainstream in the 2000s.
+
 Replaced By: Smartphone cameras.
+
 End of Use: Declined significantly by the mid-2010s.
 
 Fax Machines:
 
 Initial Implementation: 1964 by Xerox.
+
 Usagespan: Common in offices through the 1980s and 1990s.
+
 Replaced By: Email and digital communication tools.
+
 End of Use: Declined significantly by the 2010s.
 
 Portable DVD Players:
 
 Initial Implementation: Late 1990s.
+
 Usagespan: Popular in the early 2000s.
+
 Replaced By: Tablets and streaming services.
+
 End of Use: Declined by the mid-2010s.
 
 <br>
