@@ -126,5 +126,11 @@ End of Use: Declined by the mid-2010s.
 <br>
 </details>
 
+#
+
+[Product Design](https://github.com/sourceduty/Product_Design)
+<br>
+[Product Benchmark](https://github.com/sourceduty/Product_Benchmark)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
